@@ -704,6 +704,7 @@ drawable ic_location_on_black_24dp
 drawable ic_navigation_black_24dp
 drawable ic_near_me_black_24dp
 drawable ic_person_black_24dp
+drawable ic_person_outline_black_24dp
 drawable notification_action_background
 drawable notification_bg
 drawable notification_bg_low
