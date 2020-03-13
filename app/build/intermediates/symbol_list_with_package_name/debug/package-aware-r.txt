@@ -705,6 +705,7 @@ drawable ic_navigation_black_24dp
 drawable ic_near_me_black_24dp
 drawable ic_person_black_24dp
 drawable ic_person_outline_black_24dp
+drawable ic_warning_black_24dp
 drawable notification_action_background
 drawable notification_bg
 drawable notification_bg_low
@@ -758,6 +759,7 @@ id accessibility_custom_action_6
 id accessibility_custom_action_7
 id accessibility_custom_action_8
 id accessibility_custom_action_9
+id accuracy
 id action_bar
 id action_bar_activity_content
 id action_bar_container
@@ -788,6 +790,7 @@ id beginning
 id blocking
 id bottom
 id buttonPanel
+id carType
 id center_vertical
 id chains
 id checkbox
